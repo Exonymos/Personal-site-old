@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/Projects/:path*",
+      "source": "/:path*",
       "destination": "https://projects-lyart-eta.vercel.app/:path*"
     }
   ]
